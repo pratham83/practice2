@@ -1,0 +1,112 @@
+.body {
+  position: absolute;
+}
+
+.box1 {
+  position: absolute;
+  color: #440a67;
+  height: 250px;
+  width: 250px;
+  left: 150px;
+  top: 100px;
+}
+
+.para {
+  font-size: smaller;
+}
+
+.image {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  float: left;
+  margin-top: 5px;
+}
+
+.Roberts {
+  position: absolute;
+  height: 125px;
+  width: 225px;
+  background-color: #763857;
+  color: white;
+  border-radius: 10px;
+  padding: 25px;
+  left: 450px;
+  top: 370px;
+}
+
+.Smith {
+  position: absolute;
+  height: 125px;
+  width: 225px;
+  background-color: #763857;
+  color: white;
+  border-radius: 10px;
+  padding: 25px;
+  left: 150px;
+  top: 350px;
+}
+
+.anne {
+  position: absolute;
+  height: 125px;
+  width: 225px;
+  background-color: #763857;
+  color: white;
+  border-radius: 10px;
+  padding: 25px;
+  left: 750px;
+  top: 390px;
+}
+.Reviews{
+  width: 325px;
+    height: 30px;
+  background-color: #dddddd;
+  border-radius: 5px;
+  position: absolute;
+color: #763857;
+top: 150px;
+left: 550px;
+}
+.guru{
+  width: 325px;
+  height: 30px;
+  background-color: #dddddd;
+  border-radius: 5px;
+  position: absolute;
+  color: #763857;
+  top: 200px;
+left: 600px;
+
+}
+.best{
+  width: 325px;
+  height: 30px;
+  background-color: #dddddd;
+  border-radius: 5px;
+  position: absolute;
+  color: #763857;
+  top: 250px;
+    left: 650px;
+
+}
+.para2 {
+  font-size: 75%;
+  font-weight: lighter;
+  line-height: 125%;
+}
+
+.head1 {
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 50px;
+}
+
+.para1 {
+  font-size: 60%;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  color: #f25287;
+}
